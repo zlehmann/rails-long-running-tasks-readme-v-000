@@ -4,7 +4,4 @@ class CustomersController < ApplicationController
     @customers = Customer.all
   end
 
-  def import
-  end
-
 end
