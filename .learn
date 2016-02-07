@@ -1,8 +1,8 @@
 tags:
   - rails
-  - paging
-  - gems
-  - kaminari
+  - long-running tasks
+  - csv
+  - file uploads
 languages:
   - ruby
 resources: 0
