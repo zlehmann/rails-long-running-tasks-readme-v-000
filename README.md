@@ -24,7 +24,7 @@ Comma-Separated Value (CSV) file. You might need to do this for any
 number of reasons, from seeding a new database to integrating and
 sharing data from another system.
 
-Attached is a a very simple "customer database" app. It has a list of
+Attached is a very simple "customer database" app. It has a list of
 all customers at `/customers`.
 
 Our sales team has just aquired some hot leads and wants them in the
@@ -123,3 +123,5 @@ frustrated, so clearly this isn't a great experience.
 But at least you have time for that coffee now.
 
 ![that's good coffee](http://i.giphy.com/dGhlifOCTtSdW.gif)
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-long-running-tasks-readme'>Long Running Tasks in Rails</a> on Learn.co and start learning to code for free.</p>
